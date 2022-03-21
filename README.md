@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nayeem Rahman</h1>
+<h1 align="center">Hi 👋, I'm <strong>Nayeem Rahman</strong> </h1>
 <h3 align="center">Software Engineer | Full Stack ASP.NET Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/nayeemsweb" target="blank"><img
             src="https://img.shields.io/twitter/follow/nayeemsweb?logo=twitter&style=for-the-badge"
             alt="nayeemsweb" /></a> </p>
 
-- 🌱 I’m currently learning **.NET, Angular, Docker, AWS, Design Patterns, Architectures**
+- 🌱 I’m currently learning **.NET, Angular, Docker, AWS, Design Patterns, Software Architectures**
 
-- 📝 I regularly write articles on [Hashnode](https://nayeemsweb.hashnode.dev/)
+- 📝 I regularly write articles on **[Hashnode](https://nayeemsweb.hashnode.dev/)**
 
-- 💬 Ask me about **.NET, C#**
+- 💬 Ask me about **.NET, C#, TypeScript**
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/nayeemsweb/)**
+- Find me `@nayeemsweb`
 
 
 
@@ -106,8 +107,8 @@
     </a>
 </p>
 
-<br><br>
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nayeemsweb"> <center><img align="center"
+<br>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/nayeemsweb"> <img align="center"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="nayeemsweb" /></center></a></p><br><br>
+            alt="nayeemsweb" /></a></p><br><br>
