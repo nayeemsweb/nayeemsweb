@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm <strong>Nayeem Rahman</strong> </h1>
-<h3 align="center">Software Engineer | Full Stack ASP.NET Developer</h3>
+<h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm <strong>Nayeem Rahman</strong> </h1>
+<h3 align="center">Software Engineer 🌍 Full Stack ASP.NET Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/nayeemsweb" target="blank"><img
-            src="https://img.shields.io/twitter/follow/nayeemsweb?logo=twitter&style=for-the-badge"
-            alt="nayeemsweb" /></a> </p>
+<p align="center"> 
+        <a href="https://twitter.com/nayeemsweb" target="blank">
+                <img
+                src="https://img.shields.io/twitter/follow/nayeemsweb?logo=twitter&style=for-the-badge"
+                alt="nayeemsweb" />
+        </a>
+        <img src ="https://gpvc.arturio.dev/nayeemsweb" style="height: 28px">
+</p>
+
 
 - 🌱 I’m currently learning **.NET, Angular, Docker, AWS, Design Patterns, Software Architectures**
 
@@ -11,7 +17,7 @@
 
 - 💬 Ask me about **.NET, C#, TypeScript**
 
-- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/nayeemsweb/)**
+- 📫 How to reach me? Knock me in **[Linkedin](https://www.linkedin.com/in/nayeemsweb/)**
 - Find me `@nayeemsweb`
 
 
@@ -107,6 +113,9 @@
     </a>
 </p>
 
+<br>
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=nayeemsweb&amp;show_icons=true" alt="GitHub Stats"></p>
 <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nayeemsweb"> <img align="center"
